@@ -1,0 +1,5 @@
+This is a demo file.
+It is used for demonstrating file handling in Python.
+This line is added using append mode.
+This is another line added using append mode.
+Append mode me humne demo.txt file ko open kiya hai aur usme kuch text add kiya hai. agar demo.txt file pehle se exist karti hai to uska content delete nahi hoga aur jo bhi text hum append mode me likhenge wo uske baad add ho jayega. agar file exist nahi karti hai to wo file create ho jayegi aur usme text likh diya jayega.
