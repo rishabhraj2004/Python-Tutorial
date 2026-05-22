@@ -65,12 +65,12 @@ while True:
     headline = f"BREAKING NEWS: {subject} {action} {place_or_thing}"
     print(headline)
 
-    user_input = input("/n Do You want another headline? (yes/no)").strip().lower()
+    user_input = input(" Do You want another headline? (yes/no)").strip().lower()
     if user_input == "no":
         break
 
 #print goodbye message
-print("/nThanks for using ")
+print("Thanks for using ")
 
 
 

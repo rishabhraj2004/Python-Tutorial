@@ -1,8 +1,8 @@
 import random
 
 easy_words = ["apple", "tiger", "money", "india", "Bihar"]
-medium_words = ["java", "javascripts", "Munger", "Chappra" ]
-hard_words = ["Excelent", "fantastic", "avacado","rainbow" ]
+medium_words = ["java", "javascripts", "munger", "chappra" ]
+hard_words = ["excelent", "fantastic", "avacado","rainbow" ]
 
 print("welcome to the password guessing game")
 print("choose a difficult level: easy, medium or hard")
